@@ -5,7 +5,7 @@ document.getElementById("whatsappForm").addEventListener("submit", function (eve
     var email = document.getElementById("email").value;
     var phone = document.getElementById("phone").value;
     var message = document.getElementById("message").value;
-    let contact = '+918876721208'; // add your number ex(+9100000000)
+    let contact = '+918638345973'; // add your number ex(+9100000000)
 
     var encodedMessage = encodeURIComponent(
         "Name: " + name + "\n" +
